@@ -1,0 +1,14 @@
+# Environnements virtuels  
+venv/  
+env_asr/  
+.env  
+.venv  
+env/  
+# Fichiers Python compil‚s  
+__pycache__/  
+*.py[cod]  
+*$py.class  
+*.so  
+.Python  
+# Jupyter Notebook  
+.ipynb_checkpoints 
